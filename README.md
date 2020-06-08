@@ -11,4 +11,4 @@
 
 - **practica2.html**: Contiene el documento de la práctica en formato html.
 - **practica2.ipynb**: Contiene el documento de la práctica en formato ipynb (notebook).
-- **Video_Games_Sales_as_at_22_Dec_2016**: Contiene el ddataset utilizado en la práctica en formato csv.
+- **Video_Games_Sales_as_at_22_Dec_2016**: Contiene el dataset utilizado en la práctica en formato csv.
